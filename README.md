@@ -1,0 +1,1 @@
+This repository contains the R and python codes run on the CASD environment in Hugo Lamothe and Aymeric Perrin's project for the Applied Labour Economics course (2nd semester, 3rd year, ENSAE) taught by Roland Rathelot
